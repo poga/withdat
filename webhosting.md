@@ -2,11 +2,11 @@
 
 1. Install Dat
 
-    npm install -g dat
+    `npm install -g dat`
 
 2. Host your static website with dat
 
-    dat path/to/website
+    `dat path/to/website`
 
 3. Install [Beaker Browser](http://beakerbrowser.com)
 
