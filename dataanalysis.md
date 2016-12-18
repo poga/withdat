@@ -17,7 +17,7 @@ Dat can help us avoid the tedious task of find, organizing, and retrieving data.
     const spark = require('hyperspark')
 
     var rdd = spark(<ARCHIVE_KEY>)
-    # dat-transform provides spark-rdd like API for you
+    // dat-transform provides spark-rdd like API
 ```
 
 ![demo](https://github.com/poga/dat-ipynb-demo/blob/master/demo.png)
